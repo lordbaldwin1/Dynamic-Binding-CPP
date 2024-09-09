@@ -14,3 +14,7 @@ Language(s): C++
 
 # Example of array of doubly linked lists displaying monsters
 ![b3053513ce891dac1fcafcf37d5f0ce0](https://github.com/user-attachments/assets/a5d55211-0f65-47b9-b500-0a2f1207c2e1)
+
+# Example of deletion from array of doubly linked lists
+![a8d0a775cb680fd89a9e385003e58237](https://github.com/user-attachments/assets/b987326f-38d0-4080-89d8-e80c49a61961)
+
