@@ -1,4 +1,4 @@
-## Monster Stats
+# Monster Stats
 The purpose of this program is to manage monsters and their defense/attack skills.
 This is done with a BST to manage the different monsters and then an array of DLLs for the 
 monsters attacks and defenses. Dynamic binding is used as well as operator overloading
@@ -9,12 +9,12 @@ Data structures: Array of Doubly Linked List, Binary Search Tree
 
 Language(s): C++
 
-# Menu
+## Menu
 ![0473fca0271fdf6afc4b448e240c4520](https://github.com/user-attachments/assets/b1cc0cf7-76b8-4770-a6b3-fdfca69e7ddb)
 
-# Example of array of doubly linked lists displaying monsters
+## Example of array of doubly linked lists displaying monsters
 ![b3053513ce891dac1fcafcf37d5f0ce0](https://github.com/user-attachments/assets/a5d55211-0f65-47b9-b500-0a2f1207c2e1)
 
-# Example of deletion from array of doubly linked lists
+## Example of deletion from array of doubly linked lists
 ![a8d0a775cb680fd89a9e385003e58237](https://github.com/user-attachments/assets/b987326f-38d0-4080-89d8-e80c49a61961)
 
